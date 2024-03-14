@@ -1,0 +1,9 @@
+{
+	"name": "aarya-tokyo-olympics-df",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aa41f7d0-03fa-4cb0-ae57-2d6e44f39457",
+		"tenantId": "6f371238-85b1-4851-ab0b-80e12105e3d0"
+	}
+}

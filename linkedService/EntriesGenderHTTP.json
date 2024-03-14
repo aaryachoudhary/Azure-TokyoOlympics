@@ -1,0 +1,12 @@
+{
+	"name": "EntriesGenderHTTP",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/aaryachoudhary/Azure-TokyoOlympics/main/tokyo-olympic-azure-data-engineering-project%20main%20data/EntriesGender.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
